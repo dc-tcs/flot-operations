@@ -7,6 +7,11 @@
         }, 
         {
             "vout": 1, 
+            "value": 6999.0, 
+            "txid": "95e07adafc1af6541c1b4ddb86b6ab74bcdb06defd9403faa103928762c4aeae"
+        }, 
+        {
+            "vout": 1, 
             "value": 0.39, 
             "txid": "addab8120e5bebf93f6f5abb8469c255d39ce539a15ae52343a85d813379d4fd"
         }, 
@@ -14,7 +19,17 @@
             "vout": 0, 
             "value": 0.1, 
             "txid": "61df6e0e5cf8f146caf3f00138f92a576567b2ae6ba6685d841fc44498532abb"
+        }, 
+        {
+            "vout": 1, 
+            "value": 1.0, 
+            "txid": "1d649289d2c5ade67c7e993d7c81ffdb303739588276db4cab987d98e6de0e72"
+        }, 
+        {
+            "vout": 0, 
+            "value": 150000.0, 
+            "txid": "9c6410dc0e2758edab3462dbf4b6da3c0d870700f6bf3231f88088889a5610f2"
         }
     ], 
-    "height": 646166
+    "height": 651138
 }
