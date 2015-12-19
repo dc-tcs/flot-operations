@@ -1,11 +1,6 @@
 {
     "unspent": [
         {
-            "vout": 1, 
-            "value": 6999.0, 
-            "txid": "95e07adafc1af6541c1b4ddb86b6ab74bcdb06defd9403faa103928762c4aeae"
-        }, 
-        {
             "vout": 0, 
             "value": 0.1, 
             "txid": "61df6e0e5cf8f146caf3f00138f92a576567b2ae6ba6685d841fc44498532abb"
@@ -22,13 +17,8 @@
         }, 
         {
             "vout": 1, 
-            "value": 3200.26, 
-            "txid": "1064925101a6f058365530cf302bc0c71c70a1061099a65fa785fa819edcca0a"
-        }, 
-        {
-            "vout": 1, 
-            "value": 0.39, 
-            "txid": "addab8120e5bebf93f6f5abb8469c255d39ce539a15ae52343a85d813379d4fd"
+            "value": 199.63, 
+            "txid": "a548a12b5198d7877feebc43a19a835ba4930c116fcd6978ff2423dbf6a23cbd"
         }, 
         {
             "vout": 0, 
@@ -36,5 +26,5 @@
             "txid": "9c6410dc0e2758edab3462dbf4b6da3c0d870700f6bf3231f88088889a5610f2"
         }
     ], 
-    "height": 661184
+    "height": 664631
 }
